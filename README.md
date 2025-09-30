@@ -50,5 +50,5 @@ Here’s a preview of the Power BI Dashboard I created:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [Your Email Address]  
+- LinkedIn: https://www.linkedin.com/in/kunalsoniii/
+- Email: kunalsonicareer@gmail.com
