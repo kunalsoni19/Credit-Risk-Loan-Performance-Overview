@@ -42,8 +42,8 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 
 ## Dashboard Snapshot
 
-- **Result** → Highlighted that nearly **1 in 5 loans defaulted**, with small business loans and grades D–G being the riskiest.  
-- **Action** → Cleaned, modeled, and visual
+https://github.com/kunalsoni19/Credit-Risk-Loan-Performance-Overview/blob/main/Snapshot%20of%20the%20Dashboard.png
+
 
 ---
 
