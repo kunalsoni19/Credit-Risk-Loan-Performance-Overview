@@ -1,4 +1,4 @@
-# 📊 Credit Risk & Loan Performance Overview (Power BI)
+# Credit Risk & Loan Performance Overview (Power BI)
 
 ## Project Title
 **Credit Risk & Loan Performance Dashboard – Power BI**
@@ -40,13 +40,15 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 - **Action** → Cleaned, modeled, and visualized Kaggle loan data using **Power BI** with custom KPIs and filters.  
 - **Context** → Supports decision-making for financial institutions by showing **where risk is concentrated** and how it compares across loan segments.  
 
+---
+
 ## Dashboard Snapshot
+Here’s a preview of the Power BI Dashboard I created:
 
-(https://github.com/kunalsoni19/Credit-Risk-Loan-Performance-Overview/blob/main/Snapshot%20of%20the%20Dashboard.png)
-
+![Credit Risk Dashboard]()  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/kunalsoniii/
-- Email: kunalsonicareer@gmail.com
+- LinkedIn: [Your LinkedIn Link]  
+- Email: [Your Email Address]  
