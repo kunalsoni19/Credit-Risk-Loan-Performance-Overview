@@ -40,6 +40,11 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 - **Action** → Cleaned, modeled, and visualized Kaggle loan data using **Power BI** with custom KPIs and filters.  
 - **Context** → Supports decision-making for financial institutions by showing **where risk is concentrated** and how it compares across loan segments.  
 
+## Dashboard Snapshot
+
+- **Result** → Highlighted that nearly **1 in 5 loans defaulted**, with small business loans and grades D–G being the riskiest.  
+- **Action** → Cleaned, modeled, and visual
+
 ---
 
 ## 📫 Connect With Me
