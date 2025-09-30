@@ -26,11 +26,11 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 ---
 
 ## Features / Highlights
-- ✅ **Overall Loan Portfolio Analysis** → Found **19.96% default rate** across 269K loans  
-- ✅ **Risk by Loan Grade** → Grades **D through G defaulted much higher** than average → critical red flag  
-- ✅ **Purpose-Based Risk** → **Small Business loans defaulted the most** compared to other purposes  
-- ✅ **Interactive KPIs & Filters** → Loan grade, purpose, term, and risk segments  
-- ✅ **Clear Insights for Action** → Dashboard helps lenders **prioritize safe segments** and **rethink exposure in risky categories**  
+- **Overall Loan Portfolio Analysis** → Found **19.96% default rate** across 269K loans  
+- **Risk by Loan Grade** → Grades **D through G defaulted much higher** than average → critical red flag  
+- **Purpose-Based Risk** → **Small Business loans defaulted the most** compared to other purposes  
+- **Interactive KPIs & Filters** → Loan grade, purpose, term, and risk segments  
+- **Clear Insights for Action** → Dashboard helps lenders **prioritize safe segments** and **rethink exposure in risky categories**  
 
 ---
 
