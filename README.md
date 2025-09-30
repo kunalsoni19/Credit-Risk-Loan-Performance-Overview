@@ -49,6 +49,6 @@ Here’s a preview of the Power BI Dashboard I created:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kunalsoniii/
 - Email: kunalsonicareer@gmail.com
