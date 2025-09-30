@@ -42,7 +42,7 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 
 ## Dashboard Snapshot
 
-https://github.com/kunalsoni19/Credit-Risk-Loan-Performance-Overview/blob/main/Snapshot%20of%20the%20Dashboard.png
+(https://github.com/kunalsoni19/Credit-Risk-Loan-Performance-Overview/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 
 ---
