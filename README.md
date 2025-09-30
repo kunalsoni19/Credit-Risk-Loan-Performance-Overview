@@ -3,7 +3,7 @@
 ## Project Title
 **Credit Risk & Loan Performance Dashboard – Power BI**
 
-## Short Description / Purpose
+## Purpose
 This project is part of my journey as a **Business Analyst aspirant**.  
 I explored real-world loan data from **Kaggle** and built an interactive dashboard in **Power BI** to understand **credit risk, loan performance, and borrower behavior**.  
 
@@ -25,7 +25,7 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 
 ---
 
-## Features / Highlights
+## Highlights
 - **Overall Loan Portfolio Analysis** → Found **19.96% default rate** across 269K loans  
 - **Risk by Loan Grade** → Grades **D through G defaulted much higher** than average → critical red flag  
 - **Purpose-Based Risk** → **Small Business loans defaulted the most** compared to other purposes  
