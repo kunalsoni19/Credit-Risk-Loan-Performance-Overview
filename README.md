@@ -45,7 +45,7 @@ The goal was to **identify risky loan segments** and highlight KPIs that matter 
 ## Dashboard Snapshot
 Here’s a preview of the Power BI Dashboard I created:
 
-![Credit Risk Dashboard]()  
+![Credit Risk Dashboard](https://github.com/kunalsoni19/Credit-Risk-Loan-Performance-Overview/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 ---
 
